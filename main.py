@@ -14,3 +14,9 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+def hex_num1
+    """
+
+    :rtype: object
+    """= "0x10"
+hex_num2 = "0x10"
